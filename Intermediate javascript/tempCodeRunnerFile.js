@@ -1,0 +1,2 @@
+
+                    func.apply(context, args);
